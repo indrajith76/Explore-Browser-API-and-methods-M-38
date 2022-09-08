@@ -96,8 +96,25 @@ The user cannot interact with the rest of the components of the web page without
 > ``prompt('What is your Year of Birth ?', 1999);``<br>
 > ![image](images/prompt3.JPG)<br>
 ## | 6 | Location, URL parts, query string, href, hash, assign, reload :
+| window.location === location | window.location === document.location |
 ![image](images/location.JPG)
 ![image](images/location1.JPG)
 ![image](images/location2.JPG)
 ![image](images/location3.JPG)
 ![image](images/location4.JPG)
+## | 7 | History api to navigate back, forward, go, history length :
+### **History API** - back(), forward() :
+![image](images/history.JPG)
+### **History API** - go to new page using go() :<Br>
+> **``history.go(0) //use also reload page``** <br>
+> **``history.go(1) //use for jump forward``** <br>
+> **``history.go(-1) //use for jump backward``** <br>
+
+![image](images/history1.JPG)
+### **History API** - length :
+Using this you can know how many pages visited you using this tab.<br>
+>``history.length``<br>
+
+![image](images/history2.JPG)
+
+## | 8 |
