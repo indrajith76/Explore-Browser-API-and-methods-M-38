@@ -92,6 +92,12 @@ The user cannot interact with the rest of the components of the web page without
 > **Second type** (With message) :<br>
 > ``prompt('What is your Year of Birth?');``<br>
 > ![image](images/prompt2.JPG)<br>
-> **Third type** (with message and defult value) :
+> **Third type** (with message and defult value) :<br>
 > ``prompt('What is your Year of Birth ?', 1999);``<br>
 > ![image](images/prompt3.JPG)<br>
+## | 6 | Location, URL parts, query string, href, hash, assign, reload :
+![image](images/location.JPG)
+![image](images/location1.JPG)
+![image](images/location2.JPG)
+![image](images/location3.JPG)
+![image](images/location4.JPG)
