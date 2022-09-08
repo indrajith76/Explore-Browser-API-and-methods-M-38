@@ -145,3 +145,27 @@ Using this you can know how many pages visited you using this tab.<br>
 
 ![image](images/cookie6.JPG)
 ![image](images/cookie7.JPG)
+## | 9 | local storage, session storage, storage info in browser storage :
+### **What is Session storage ?**
+- Stores data in browser for a session.
+- Saves data in key/value pairs in the browser.
+- Data is deleted when the browser is closed.
+- Data is not available for future session.
+
+![image](images/sessionStorage.JPG)
+
+### **What is local storage ?**
+- Stores data in browser without any expiration data.
+- Saves data in key/value pairs in the browser.
+- Data is not deleted when the browser is closed.
+- Data is available for future sessions.
+
+![image](images/localstorage.JPG)
+![image](images/sintexofLocalStorage.JPG)
+![image](images/localstorage1.JPG)
+![image](images/localstorage2.JPG)
+![image](images/localStorage3.JPG)
+![image](images/localstorage4.JPG)
+![image](images/localstorage5.JPG)
+### **Defference between Cookies, Local Storage and Session Stoage :**
+![image](images/localstorage6.JPG)
