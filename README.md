@@ -103,7 +103,9 @@ The user cannot interact with the rest of the components of the web page without
 ![image](images/location3.JPG)
 ![image](images/location4.JPG)
 ## | 7 | History api to navigate back, forward, go, history length :
-### **History API** - back(), forward() :
+### **History API** - back(), forward() :<br>
+``history.back()``<br>
+``history.forward()``<br>
 ![image](images/history.JPG)
 ### **History API** - go to new page using go() :<Br>
 > **``history.go(0) //use also reload page``** <br>
@@ -117,4 +119,29 @@ Using this you can know how many pages visited you using this tab.<br>
 
 ![image](images/history2.JPG)
 
-## | 8 |
+## | 8 | Cookies, dev tool application tab, get cookie value :
+### **What is Cookie ?**
+&ensp; 1 ) Data stored in small text file.<br>
+&ensp; 2 ) Naturally sent by visited websites.<br>
+&ensp; 3 ) Sent to users computer through browser.<br>
+&ensp; 4 ) Is not a program, doesn't perform any function.<br>
+&ensp; 6 ) Stored in key-value pair.<br>
+![image](images/cookie.JPG) <br>
+### **How does a Cookie work ?**
+![image](images/cookie1.JPG) <br>
+### **Purposes of Cookie :**
+- **Session management -** cookies allow you to manage any information that the server should remember. For example, logins, shopping carts, etc.
+- **Personalization -** cookies allow you to store user preference, themes, and setting specific to a user.
+- **Tracking -** cookies help record and analyze user behaviors in advertising.
+
+![image](images/cookie2.JPG)
+![image](images/cookie3.JPG)
+![image](images/cookie4.JPG)
+![image](images/cookie5.JPG)
+### **What is Http only cookie ?** <br>
+- A tag added to a browser cookie.
+- Prevents client-side scripts from accessing data.
+- Provides a gate that prevents the specialized cookie from being accessed by anything other then the server.
+
+![image](images/cookie6.JPG)
+![image](images/cookie7.JPG)
