@@ -88,10 +88,10 @@ The user cannot interact with the rest of the components of the web page without
 > ### **3 types of Prompt Box :**
 > **First type** (Without message) :<br>
 > ``prompt();``<br>
-> ![image](images/prompt1.JPG)
+> ![image](images/prompt1.JPG)<br>
 > **Second type** (With message) :<br>
 > ``prompt('What is your Year of Birth?');``<br>
-> ![image](images/prompt2.JPG)
+> ![image](images/prompt2.JPG)<br>
 > **Third type** (with message and defult value) :
 > ``prompt('What is your Year of Birth ?', 1999);``<br>
-> ![image](images/prompt3.JPG)
+> ![image](images/prompt3.JPG)<br>
