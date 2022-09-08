@@ -2,7 +2,7 @@
 ## | 1 | API - Application Programming Interface :
 
 ### A set of protocols and definitions that allows communication between two applications.
-![image](images/Api.PNG)
+![image](images/Api1.png)
 
 ## | 2 | Different types of API :
 
